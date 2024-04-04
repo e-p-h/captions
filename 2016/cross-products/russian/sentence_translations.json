@@ -97,7 +97,7 @@
  },
  {
   "input": "The way I always remember the ordering here is that when you take the cross product of the two basis vectors in order, i-hat cross j-hat, the result should be positive.",
-  "translatedText": "Я запоминаю порядок так: когда вы берете векторное произведение двух базисных векторов по порядку, i умножить на j, результат должен быть положительным.",
+  "translatedText": "Я запоминаю порядок так: когда вы берете векторное произведение двух базисных векторов по порядку, î умножить на ĵ, результат должен быть положительным.",
   "model": "google_nmt",
   "n_reviews": 1,
   "start": 99.04,
@@ -113,7 +113,7 @@
  },
  {
   "input": "So since i-hat is on the right of j-hat, I remember that v cross w has to be positive whenever v is on the right of w.",
-  "translatedText": "Итак, поскольку i находится справа от j, я помню, что v умножить на w должно быть положительным всякий раз, когда v находится справа от w.",
+  "translatedText": "Итак, поскольку î находится справа от ĵ, я помню, что v умножить на w должно быть положительным всякий раз, когда v находится справа от w.",
   "model": "google_nmt",
   "n_reviews": 1,
   "start": 112.48,
@@ -185,7 +185,7 @@
  },
  {
   "input": "The determinant is all about measuring how areas change due to a transformation, and the prototypical area that we look at is the unit square resting on i-hat and j-hat.",
-  "translatedText": "Определитель помогает измерить то, как изменяются площади в результате преобразования, и исходно мы смотрим на единичный квадрат, опирающийся на векторы i и j.",
+  "translatedText": "Определитель помогает измерить то, как изменяются площади в результате преобразования, и исходно мы смотрим на единичный квадрат, опирающийся на векторы î и ĵ.",
   "model": "google_nmt",
   "n_reviews": 1,
   "start": 186.26,
@@ -409,7 +409,7 @@
  },
  {
   "input": "So the cross product of these two vectors is negative 4 times i-hat.",
-  "translatedText": "Таким образом, векторное произведение этих двух векторов равно -4 умножить на i.",
+  "translatedText": "Таким образом, векторное произведение этих двух векторов равно -4 умножить на î.",
   "model": "google_nmt",
   "n_reviews": 1,
   "start": 396.1,
@@ -417,7 +417,7 @@
  },
  {
   "input": "For more general computations, there is a formula that you could memorize if you wanted, but it's common and easier to instead remember a certain process involving the 3D determinant.",
-  "translatedText": "Для более общих вычислений существует формула, которую вы можете выучить, если захотите, но вместо этого проще запомнить определенный процесс, включающий трехмерный определитель.",
+  "translatedText": "Для более общих вычислений существует формула, которую вы можете выучить, если захотите, но вместо этого проще запомнить определенный процесс, включающий трёхмерный определитель.",
   "model": "google_nmt",
   "n_reviews": 1,
   "start": 405.5,
@@ -441,7 +441,7 @@
  },
  {
   "input": "But for that first column, you write the basis vectors i-hat, j-hat, and k-hat.",
-  "translatedText": "Но для этого первого столбца вы пишете базисные векторы i, j и k.",
+  "translatedText": "Но для этого первого столбца вы пишете базисные векторы î, ĵ и k̂.",
   "model": "google_nmt",
   "n_reviews": 1,
   "start": 425.56,
@@ -481,7 +481,7 @@
  },
  {
   "input": "When you carry out the computations as if i-hat, j-hat, and k-hat were numbers, then you get some linear combination of those basis vectors.",
-  "translatedText": "Когда вы выполняете вычисления так, как если бы i, j и k были числами, вы получаете некую линейную комбинацию этих базисных векторов.",
+  "translatedText": "Когда вы выполняете вычисления так, как если бы î, ĵ и k̂ были числами, вы получаете некую линейную комбинацию этих базисных векторов.",
   "model": "google_nmt",
   "n_reviews": 1,
   "start": 445.54,
